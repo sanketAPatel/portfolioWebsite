@@ -372,8 +372,11 @@ p {
 .namebanner {
 	font-size: 30px; 
 	  text-align:right;
-	
+	margin-left:150px;
+	 width: 200px;
+	 font-family: 'Redressed', cursive;
 }
+
 .navigation {
   -webkit-box-shadow: 0px 0px 29px 0px rgba(134, 134, 134, 0.25);
   -moz-box-shadow: 0px 0px 29px 0px rgba(134, 134, 134, 0.25);
